@@ -154,7 +154,7 @@ const Checkout = () => {
                           <ShieldCheck className="w-5 h-5" />
                         </span>
                       )}
-                    </motion.button>
+                    </button>
                   </div>
                 </motion.div>
               )}

@@ -88,7 +88,7 @@ const Success = () => {
             Continue Exploration
             <ArrowRight className="w-5 h-5" />
           </Link>
-        </div>
+        </motion.div>
         
         <p className="text-[10px] text-gray-600 font-bold uppercase tracking-[0.3em] pt-12">
            Confirmation #NC-8829-XJ2
